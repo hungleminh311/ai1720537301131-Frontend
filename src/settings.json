@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Professional Car Rental Services for Every Journey",
+        "title": "Drive Your Dreams Today"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Professional Car Rental Services for Every Journey",
+        "title": "Drive Your Dreams Today"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Professional Car Rental Services for Every Journey",
+        "title": "Drive Your Dreams Today"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Professional Car Rental Services for Every Journey",
+        "title": "Drive Your Dreams Today"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Professional Car Rental Services for Every Journey",
+        "title": "Drive Your Dreams Today"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Professional Car Rental Services for Every Journey",
+        "title": "Drive Your Dreams Today"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Professional Car Rental Services for Every Journey",
+        "title": "Drive Your Dreams Today"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Professional Car Rental Services for Every Journey",
+        "title": "Drive Your Dreams Today"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Drive Your Dreams Today",
+  "subtitle": "Professional Car Rental Services for Every Journey"
+}
